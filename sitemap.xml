@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://rust-ab.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://rust-ab.github.io/antsforaging/</loc>
+    </url>
+    <url>
+        <loc>https://rust-ab.github.io/boids/</loc>
+    </url>
+    <url>
+        <loc>https://rust-ab.github.io/virusnetwork/</loc>
+    </url>
+    <url>
+        <loc>https://rust-ab.github.io/wolfsheepgrass/</loc>
+    </url>
+</urlset>
